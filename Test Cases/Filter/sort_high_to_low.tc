@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>sort_high_to_low</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b30f1def-4103-4a69-b27c-e5c47a96a2ca</testCaseGuid>
+</TestCaseEntity>

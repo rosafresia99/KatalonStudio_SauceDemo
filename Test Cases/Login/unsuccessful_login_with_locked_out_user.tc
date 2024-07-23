@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>unsuccessful_login_with_locked_out_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d58c4c29-53f0-4ace-bd60-635ba8729b32</testCaseGuid>
+</TestCaseEntity>
